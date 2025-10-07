@@ -18,7 +18,7 @@ The project is organized into a **Jupyter Notebook** for reproducible analysis a
 ---
 
 ## 📂 Repository Contents
-- **ProjectNotebook_Clean.ipynb** → Clean notebook with full analysis (outputs cleared for readability).  
+- **ProjectNotebook.ipynb** → Clean notebook with full analysis (outputs cleared for readability).  
 - **soil_measures.csv** → Dataset used for analysis.  
 - **farmer_in_a_field.jpg** → Visual asset for project context.  
 - **README.md** → Project documentation.  
