@@ -1,4 +1,5 @@
 # 🌱 Soil Measures Analysis
+![Farmer in a field](farmer_in_a_field.jpg)
 
 ## 📖 Overview
 This project focuses on analyzing soil quality measures using Python.  
@@ -39,11 +40,6 @@ The project is organized into a **Jupyter Notebook** for reproducible analysis a
 - Other features like **Nitrogen (N)** and **Phosphorous (P)** also influence predictions but less strongly.  
 - The dataset covers **22 different crops**, including rice, maize, pulses, fruits, and cash crops like cotton and coffee.  
 - A multi-class classification approach enables farmers to match soil profiles with the **optimal crop choice** to maximize yield.  
-
----
-
-## 🌍 Visualization
-![Farmer in a field](farmer_in_a_field.jpg)
 
 ---
 
