@@ -1,4 +1,4 @@
-# 🌱 Soil Measures Analysis
+# 🌱 Predicitve Modelling for Agriculture
 ![Farmer in a field](farmer_in_a_field.jpg)
 
 ## 📖 Overview
